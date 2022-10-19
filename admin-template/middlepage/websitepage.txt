@@ -1,0 +1,9 @@
+(doctor-id,fname,lname,email,password,gender,address,contact,degree,profi
+le,status.)
+(patient-id,fname,lname,email,password,gender,age,address,contact,profile,status.)
+(appointment-id,fname,email,gender,date,time,address,contact,status.)
+chat
+blog-id,blogname,profile,category,description,status.
+category-id,name,description,profile,status.
+feedback-id,namem,email,messaage,status.
+gallery-id,name,profile,status.
